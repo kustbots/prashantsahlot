@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/prashant_sahlot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prashant_sahlot" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vibeshiftgamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vibeshiftgamer" height="30" width="40" /></a>
+<a href="https://youtube.com/@vibeshiftgamer?si=r2wIKb_HXDGy4_-1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vibeshiftgamer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
