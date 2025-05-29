@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Frozen | VibeShift | Anonymous</h1>
+<h1 align="center">Hi 👋, I'm Prashant</h1>
 <h3 align="center">A 17-year-old passionate gamer, developer, and automation expert.🤔</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantsahlot&label=Profile%20views&color=0e75b6&style=flat" alt="prashantsahlot" /> </p>
